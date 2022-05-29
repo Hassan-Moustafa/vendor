@@ -9,7 +9,7 @@
                                         "subtitle": "Birthday Party",
                                         "image_ratio": "16by9",
                                         "image_url": "http://developer.samsung.com/onlinedocs/tv/Preview/1.jpg",
-                                        "action_data": "{\"videoIdx\": 1}",
+                                        "action_data": "{\"deepLink\": "/content-details/SERIES/697"}",
                                         "is_playable": true
                                     }
                                 ]
